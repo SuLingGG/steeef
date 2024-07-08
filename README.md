@@ -23,9 +23,9 @@ colors for 256-color terminals (or otherwise).
 
 | Variable        | Description             | Default value    |
 | --------------- | ----------------------- | ---------------- |
-| USER_COLOR      | User name color         | 135 (or magenta) |
-| HOST_COLOR      | Host name color         | 166 (or yellow)  |
-| PWD_COLOR       | Working directory color | 118 (or green)   |
+| USER_COLOR      | User name color         | 11 (or bryellow) |
+| HOST_COLOR      | Host name color         | 10 (or brgreen)  |
+| PWD_COLOR       | Working directory color | 11 (or bryellow) |
 | BRANCH_COLOR    | Git branch name color   | 81 (or cyan)     |
 | UNINDEXED_COLOR | Git unindexed color     | 166 (or yellow)  |
 | UNINDEXED_IND   | Git unindexed indicator | ●                |
@@ -35,6 +35,7 @@ colors for 256-color terminals (or otherwise).
 | UNTRACKED_IND   | Git untracked indicator | ●                |
 | STASHED_COLOR   | Git stashed color       |                  |
 | STASHED_IND     | Git stashed indicator   |                  |
+| TIME_COLOR      | Time color              | 242 (or grey)    |
 
 The git stashed indicator will not be shown unless defined.
 
