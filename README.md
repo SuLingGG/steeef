@@ -41,7 +41,7 @@ The git stashed indicator will not be shown unless defined.
 Requirements
 ------------
 
-Requires Zim's [git-info] module to show git information.
+Requires Zim Framework's [git-info] module to show git information.
 
 [steeef's]: https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/steeef.zsh-theme
 ['detached HEAD' state]: https://git-scm.com/docs/git-checkout#_detached_head
